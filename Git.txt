@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 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
 
 git remote set-url origin https://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@github.com/Zenlac/CIT14.git
+=======
+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
+
+git remote set-url origin https://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@github.com/Zenlac/CIT14.git
+>>>>>>> 49625b3844986771dae4fb8db4019c66f1a08308
